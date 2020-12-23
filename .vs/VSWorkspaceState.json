@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\controllers",
+    "\\lib",
+    "\\models",
+    "\\public",
+    "\\public\\css",
+    "\\public\\fonts",
+    "\\public\\images",
+    "\\repository",
+    "\\routes"
+  ],
+  "SelectedNode": "\\config\\db.js",
+  "PreviewInSolutionExplorer": false
+}

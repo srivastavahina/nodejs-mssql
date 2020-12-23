@@ -3,6 +3,7 @@ var Request = require('tedious').Request;
 var TYPES = require('tedious').TYPES;
 var Product = require('../models/product');
 
+
 function getAllProduct(req, res) {
 	var products = [];
 	var request = new Request("dbo.API_GetAllProducts", function(err, rowCount) {
